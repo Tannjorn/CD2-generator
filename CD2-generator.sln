@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD2-generator", "CD2-generator\CD2-generator.csproj", "{0B8FE6DC-961C-43B5-95D1-A8FF76E4FF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8FE6DC-961C-43B5-95D1-A8FF76E4FF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8FE6DC-961C-43B5-95D1-A8FF76E4FF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8FE6DC-961C-43B5-95D1-A8FF76E4FF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8FE6DC-961C-43B5-95D1-A8FF76E4FF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CE9216E-4305-4888-9C41-3CB6EB279E19}
+	EndGlobalSection
+EndGlobal
